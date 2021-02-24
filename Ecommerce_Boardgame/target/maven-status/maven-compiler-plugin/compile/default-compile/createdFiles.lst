@@ -1,0 +1,16 @@
+com\mycompany\ecommerce_boardgame\configuration\MvcConfig.class
+com\mycompany\ecommerce_boardgame\controller\AdminController.class
+com\mycompany\ecommerce_boardgame\controller\UserController.class
+com\mycompany\ecommerce_boardgame\controller\HomeController.class
+com\mycompany\ecommerce_boardgame\enums\Role.class
+com\mycompany\ecommerce_boardgame\configuration\JPAConfig.class
+com\mycompany\ecommerce_boardgame\repository\UserRoleRepository.class
+com\mycompany\ecommerce_boardgame\entities\UserEntity.class
+com\mycompany\ecommerce_boardgame\configuration\SecurityWebApplicationInitializer.class
+com\mycompany\ecommerce_boardgame\entities\UserRoleEntity.class
+com\mycompany\ecommerce_boardgame\service\UserDetailsServiceImpl.class
+com\mycompany\ecommerce_boardgame\repository\UserRepository.class
+com\mycompany\ecommerce_boardgame\utils\SecurityUtils.class
+com\mycompany\ecommerce_boardgame\enums\UserStatus.class
+com\mycompany\ecommerce_boardgame\configuration\AppInitializer.class
+com\mycompany\ecommerce_boardgame\configuration\SecurityConfig.class

@@ -1,0 +1,16 @@
+C:\Users\THAI\OneDrive\Documents\NetBeansProjects\Ecommerce_Boardgame\src\main\java\com\mycompany\ecommerce_boardgame\configuration\AppInitializer.java
+C:\Users\THAI\OneDrive\Documents\NetBeansProjects\Ecommerce_Boardgame\src\main\java\com\mycompany\ecommerce_boardgame\utils\SecurityUtils.java
+C:\Users\THAI\OneDrive\Documents\NetBeansProjects\Ecommerce_Boardgame\src\main\java\com\mycompany\ecommerce_boardgame\controller\HomeController.java
+C:\Users\THAI\OneDrive\Documents\NetBeansProjects\Ecommerce_Boardgame\src\main\java\com\mycompany\ecommerce_boardgame\controller\AdminController.java
+C:\Users\THAI\OneDrive\Documents\NetBeansProjects\Ecommerce_Boardgame\src\main\java\com\mycompany\ecommerce_boardgame\controller\UserController.java
+C:\Users\THAI\OneDrive\Documents\NetBeansProjects\Ecommerce_Boardgame\src\main\java\com\mycompany\ecommerce_boardgame\configuration\SecurityWebApplicationInitializer.java
+C:\Users\THAI\OneDrive\Documents\NetBeansProjects\Ecommerce_Boardgame\src\main\java\com\mycompany\ecommerce_boardgame\configuration\MvcConfig.java
+C:\Users\THAI\OneDrive\Documents\NetBeansProjects\Ecommerce_Boardgame\src\main\java\com\mycompany\ecommerce_boardgame\enums\Role.java
+C:\Users\THAI\OneDrive\Documents\NetBeansProjects\Ecommerce_Boardgame\src\main\java\com\mycompany\ecommerce_boardgame\entities\UserEntity.java
+C:\Users\THAI\OneDrive\Documents\NetBeansProjects\Ecommerce_Boardgame\src\main\java\com\mycompany\ecommerce_boardgame\repository\UserRoleRepository.java
+C:\Users\THAI\OneDrive\Documents\NetBeansProjects\Ecommerce_Boardgame\src\main\java\com\mycompany\ecommerce_boardgame\enums\UserStatus.java
+C:\Users\THAI\OneDrive\Documents\NetBeansProjects\Ecommerce_Boardgame\src\main\java\com\mycompany\ecommerce_boardgame\service\UserDetailsServiceImpl.java
+C:\Users\THAI\OneDrive\Documents\NetBeansProjects\Ecommerce_Boardgame\src\main\java\com\mycompany\ecommerce_boardgame\configuration\SecurityConfig.java
+C:\Users\THAI\OneDrive\Documents\NetBeansProjects\Ecommerce_Boardgame\src\main\java\com\mycompany\ecommerce_boardgame\configuration\JPAConfig.java
+C:\Users\THAI\OneDrive\Documents\NetBeansProjects\Ecommerce_Boardgame\src\main\java\com\mycompany\ecommerce_boardgame\entities\UserRoleEntity.java
+C:\Users\THAI\OneDrive\Documents\NetBeansProjects\Ecommerce_Boardgame\src\main\java\com\mycompany\ecommerce_boardgame\repository\UserRepository.java
